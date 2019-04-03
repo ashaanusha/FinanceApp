@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/customers"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        android:title="@string/title_customers" />
+
+    <item
+        android:id="@+id/depositors"
+        android:icon="@drawable/ic_directions_walk_black_24dp"
+        android:title="@string/title_depositors" />
+
+    <item
+        android:id="@+id/reports"
+        android:icon="@drawable/ic_report_black_24dp"
+        android:title="@string/title_reports" />
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="@string/title_menu" />
+</menu>

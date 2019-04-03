@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+    <string-array name="values">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>ThisWeek</item>
+        <item>Last7Days</item>
+        <item>Last30Days</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string-array name="ascending">
+
+        <item>Date-Ascending</item>
+        <item>Name-Ascending</item>
+        <item>Date-Descending</item>
+        <item>Name-Descending</item>
+        <item>Last30Days</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_customers">Customers</string>
+    <string name="title_depositors">Depositors</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_menu">Menu</string>
+
+</resources>

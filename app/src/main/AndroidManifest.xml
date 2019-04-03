@@ -21,9 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".AddDepositorActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".Add_form"

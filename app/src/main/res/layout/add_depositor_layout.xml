@@ -38,6 +38,7 @@
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
+                android:id="@+id/whatsApp"
                 android:src="@drawable/whatsapp"/>
 
         </LinearLayout>
@@ -52,6 +53,7 @@
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
+                android:id="@+id/Message"
                 android:src="@drawable/message"/>
 
         </LinearLayout>

@@ -46,7 +46,7 @@ public class Collect extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (isPermissionGranted()) {
-                    Intent intent = new Intent(Intent.ACTION_DIAL);
+                    Intent intent = new Intent(Intent.ACTION_CALL);
                     /* sets the desired package for the intent */
                     intent.setPackage("com.whatsapp");
                     intent.setData(Uri.parse(number1));

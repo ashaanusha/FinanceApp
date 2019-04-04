@@ -33,6 +33,7 @@
         android:layout_height="wrap_content"
       android:layout_gravity="center"
         android:padding="5dp"
+        android:id="@+id/collect"
         android:gravity="center"
         android:orientation="vertical">
         <ImageView
@@ -52,6 +53,7 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:padding="5dp"
+        android:id="@+id/Details"
         android:layout_marginLeft="5dp"
         android:orientation="vertical">
         <ImageView
